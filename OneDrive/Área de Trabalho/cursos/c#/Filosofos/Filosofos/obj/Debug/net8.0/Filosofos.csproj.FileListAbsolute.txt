@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\bin\Debug\net8.0\Filosofos.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\bin\Debug\net8.0\Filosofos.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\bin\Debug\net8.0\Filosofos.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\bin\Debug\net8.0\Filosofos.dll
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\bin\Debug\net8.0\Filosofos.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\obj\Debug\net8.0\Filosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\obj\Debug\net8.0\Filosofos.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\obj\Debug\net8.0\Filosofos.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\obj\Debug\net8.0\Filosofos.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\obj\Debug\net8.0\Filosofos.dll
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\obj\Debug\net8.0\refint\Filosofos.dll
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\obj\Debug\net8.0\Filosofos.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\obj\Debug\net8.0\Filosofos.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\obj\Debug\net8.0\ref\Filosofos.dll
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Filosofos\Filosofos\obj\Debug\net8.0\Filosofos.sourcelink.json
